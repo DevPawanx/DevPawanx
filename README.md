@@ -1,4 +1,3 @@
-
 <!-- =====================================================================
      DevPawanX — GitHub Profile README
      Designed & maintained by DevPawanX
@@ -17,11 +16,11 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%E2%97%8B%20Age-26-00b4d8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Age-26-00b4d8?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Languages-English%20%7C%20Hinglish-8b5cf6?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/%E2%96%A0%20Role-DevOps%20Engineer-06b6d4?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Role-DevOps%20Engineer-06b6d4?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collabs-16a34a?style=flat-square&labelColor=0d1117" />
 
@@ -38,16 +37,14 @@
 <a href="mailto:proxypawang@gmail.com">
   <img src="https://img.shields.io/badge/Email-proxypawang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
-
-<br/><br/>
-
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=DevPawanX&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS&labelColor=0d1117" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -62,28 +59,24 @@
 </div>
 
 ```yaml
-Name      : DevPawanX
-Role      : DevOps Engineer
-Age       : 26
-Languages : English, Hinglish
-Focus     : Cloud Infrastructure · CI/CD Pipelines · Automation · IaC
-Email     : proxypawang@gmail.com
-Discord   : dev.pawanx_
+name     : DevPawanX
+role     : DevOps Engineer
+focus    : Cloud · CI/CD · Automation · Infrastructure as Code
+email    : proxypawang@gmail.com
+discord  : dev.pawanx_
 ```
 
 <div align="center">
 
-**DevPawanX** is a passionate **DevOps Engineer** with intermediate proficiency in **Python, Node.js, and HTML**, combined with advanced, hands-on experience in **DevOps tooling, cloud infrastructure, and automation workflows**.
+**DevPawanX** is a **DevOps Engineer** with intermediate proficiency in **Python, Node.js, and HTML**, backed by advanced hands-on experience in **DevOps tooling, cloud infrastructure, containerisation, and pipeline automation**.
 
-Specialising in designing, deploying, and maintaining scalable infrastructure using modern DevOps practices — from containerisation and orchestration to full CI/CD pipeline automation and Infrastructure as Code.
-
-> *"Automate everything. Document everything. Break nothing in production."*
+> *Automate smart. Ship fast. Keep infrastructure stable.*
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -103,7 +96,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -143,21 +136,19 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════
-     ADVANCED DEVOPS TOOLS — CHART STYLE (like screenshot 3)
+     ADVANCED DEVOPS TOOLS
 ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### `< Advanced DevOps Tools />`
 
-<sub>All tools below have been used in real workflows, labs, deployments, and automation setups.</sub>
-
-<br/><br/>
+<br/>
 
 **`‹ CI / CD & Delivery ›`**
 
@@ -168,10 +159,6 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="80%" />
 
 <br/><br/>
 
@@ -187,10 +174,6 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="80%" />
-
-<br/><br/>
-
 **`‹ Infrastructure as Code ›`**
 
 <br/>
@@ -198,10 +181,6 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="80%" />
 
 <br/><br/>
 
@@ -217,10 +196,6 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="80%" />
-
-<br/><br/>
-
 **`‹ Monitoring & Observability ›`**
 
 <br/>
@@ -230,10 +205,6 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="80%" />
 
 <br/><br/>
 
@@ -247,7 +218,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -267,7 +238,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <img src="https://img.shields.io/badge/01-DevOps%20Fundamentals-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 
-<br/><sub>Linux · Git · Bash · Networking</sub><br/><br/>
+<sub>Linux · Git · Bash · Networking</sub>
 
 <img src="https://img.shields.io/badge/Completed-100%25-16a34a?style=flat-square&labelColor=0d1117" />
 
@@ -276,7 +247,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <img src="https://img.shields.io/badge/02-Containerization-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
-<br/><sub>Docker · Compose · Container Security</sub><br/><br/>
+<sub>Docker · Compose · Container Security</sub>
 
 <img src="https://img.shields.io/badge/Progress-95%25-0ea5e9?style=flat-square&labelColor=0d1117" />
 
@@ -285,7 +256,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <img src="https://img.shields.io/badge/03-Infrastructure%20as%20Code-0d1117?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
 
-<br/><sub>Terraform · Ansible · Helm</sub><br/><br/>
+<sub>Terraform · Ansible · Helm</sub>
 
 <img src="https://img.shields.io/badge/Progress-80%25-8b5cf6?style=flat-square&labelColor=0d1117" />
 
@@ -296,7 +267,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <img src="https://img.shields.io/badge/04-Cloud%20Platforms-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 
-<br/><sub>AWS · Azure · GCP</sub><br/><br/>
+<sub>AWS · Azure · GCP</sub>
 
 <img src="https://img.shields.io/badge/In%20Progress-65%25-2563eb?style=flat-square&labelColor=0d1117" />
 
@@ -305,7 +276,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <img src="https://img.shields.io/badge/05-Monitoring%20%26%20Observability-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C" />
 
-<br/><sub>Prometheus · Grafana · ELK</sub><br/><br/>
+<sub>Prometheus · Grafana · ELK</sub>
 
 <img src="https://img.shields.io/badge/In%20Progress-70%25-f97316?style=flat-square&labelColor=0d1117" />
 
@@ -314,7 +285,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <img src="https://img.shields.io/badge/06-DevOps%20with%20AI-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 
-<br/><sub>TensorFlow · AI CI/CD · MLOps</sub><br/><br/>
+<sub>TensorFlow · AI CI/CD · MLOps</sub>
 
 <img src="https://img.shields.io/badge/Planned-40%25-ec4899?style=flat-square&labelColor=0d1117" />
 
@@ -326,7 +297,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -346,7 +317,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 **CI/CD Pipeline Automation**
 
-<br/><sub>Automated multi-stage build, test and deploy workflows with rollback support.</sub><br/><br/>
+<sub>Automated multi-stage build, test and deploy workflows with rollback support.</sub>
 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -357,7 +328,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 **Kubernetes Deployment System**
 
-<br/><sub>Production Kubernetes cluster with Helm charts and GitOps via ArgoCD.</sub><br/><br/>
+<sub>Production Kubernetes cluster with Helm charts and GitOps via ArgoCD.</sub>
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
@@ -370,7 +341,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 **Infrastructure as Code Templates**
 
-<br/><sub>Reusable Terraform and Ansible modules for multi-cloud provisioning.</sub><br/><br/>
+<sub>Reusable Terraform and Ansible modules for multi-cloud provisioning.</sub>
 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
@@ -381,7 +352,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 **Monitoring Stack Setup**
 
-<br/><sub>Full observability with Prometheus metrics, Grafana dashboards and ELK logs.</sub><br/><br/>
+<sub>Full observability with Prometheus metrics, Grafana dashboards and ELK logs.</sub>
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
@@ -395,7 +366,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -437,7 +408,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -469,7 +440,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -503,12 +474,12 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE
+     CONTRIBUTION SNAKE — using platane action (reliable source)
 ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -523,7 +494,7 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -565,9 +536,9 @@ All configurations, infrastructure designs, and automation workflows created and
 &nbsp;
 <img src="https://img.shields.io/badge/Trophies-ryo--ma-ec4899?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Dividers-andreasbm-ffffff?style=flat-square&labelColor=0d1117" />
-&nbsp;
 <img src="https://img.shields.io/badge/Views-komarev-06b6d4?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Dividers-73097560-ffffff?style=flat-square&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -587,7 +558,6 @@ All configurations, infrastructure designs, and automation workflows created and
 | github-readme-activity-graph | Contribution graph | https://github.com/Ashutosh00710/github-readme-activity-graph |
 | github-profile-trophy | Trophy widget | https://github.com/ryo-ma/github-profile-trophy |
 | platane/snk | Contribution snake animation | https://github.com/platane/snk |
-| andreasbm/readme | Animated divider lines | https://github.com/andreasbm/readme |
 | komarev.com | Profile view counter | https://komarev.com/ghpvc |
 | Simple Icons | Brand logos in badges | https://simpleicons.org |
 
@@ -601,7 +571,5 @@ All configurations, infrastructure designs, and automation workflows created and
 
 <!-- =====================================================================
      END OF README — DevPawanX
-     Designed & maintained by DevPawanX
-     Support credit: Sakshu1347
      ===================================================================== -->
 ```
