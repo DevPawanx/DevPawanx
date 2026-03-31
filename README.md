@@ -450,16 +450,6 @@ journey
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://skillicons.dev/icons?i=azure" width="24" /> &nbsp; 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DevPawanX/DevPawanX/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://skillicons.dev/icons?i=githubactions" width="24" /> &nbsp; DevOps Focus Areas
 
 <div align="center">
@@ -625,27 +615,16 @@ journey
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://skillicons.dev/icons?i=grafana" width="24" /> &nbsp; Extra Widgets
+## <img src="https://skillicons.dev/icons?i=prometheus" width="22" /> Extra Widgets
 
 <div align="center">
-
-<!-- Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
-
-<br/><br/>
-
-<!-- Random Dev Meme -->
-<img src="https://randommeme-five.vercel.app/" alt="Dev Meme" width="400" />
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Open%20to-DevOps%20Collaboration-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud%20Native-Building%20Reliable%20Systems-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
 <img src="https://img.shields.io/badge/Automation-Always%20Improving-111827?style=for-the-badge&logo=ansible&logoColor=EE0000" />
 <img src="https://img.shields.io/badge/Infra-Scalable%20%26%20Secure-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
-<img src="https://img.shields.io/badge/Mindset-Ship%20Fast%20Break%20Nothing-111827?style=for-the-badge&logo=rocket&logoColor=22d3ee" />
 
 </div>
 
@@ -689,101 +668,3 @@ journey
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:111827,100:0ea5e9" />
 </div>
-```
-
----
-
-Now create these **two GitHub Actions workflow files** in your profile repo:
-
-### File 1: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: DevPawanX
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### File 2: `.github/workflows/3d-contrib.yml`
-
-```yaml
-name: Generate 3D Contribution Calendar
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Generate 3D Profile
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate 3D Contrib
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: DevPawanX
-
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --quiet HEAD || git commit -m "chore: update 3d contrib calendar"
-          git push
-```
-
----
-
-### What's new in this version:
-
-| Addition | Details |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=python" width="16" /> **Snake Widget** | Contribution snake eating your commits with dark/light mode support |
-| <img src="https://skillicons.dev/icons?i=azure" width="16" /> **3D Contribution Calendar** | Rainbow night-mode 3D contribution graph |
-| <img src="https://skillicons.dev/icons?i=kubernetes" width="16" /> **Mermaid Pipeline** | Interactive flowchart showing full DevOps pipeline with styled nodes |
-| <img src="https://skillicons.dev/icons?i=grafana" width="16" /> **Mermaid Journey** | Learning journey diagram with progress markers |
-| <img src="https://skillicons.dev/icons?i=docker" width="16" /> **6 Featured Projects** | Added Docker Security Scanner + Cloud Cost Optimizer |
-| <img src="https://skillicons.dev/icons?i=prometheus" width="16" /> **6 Metrics Cards** | Added Clusters Managed + Cloud Projects |
-| <img src="https://skillicons.dev/icons?i=linux" width="16" /> **Linux Admin Skill** | Added 90% bar to skill proficiency |
-| <img src="https://skillicons.dev/icons?i=devto" width="16" /> **Dev Meme Widget** | Random programming meme generator |
-| <img src="https://skillicons.dev/icons?i=githubactions" width="16" /> **2 Workflow Files** | Ready-to-use GitHub Actions for snake + 3D contrib |
-| <img src="https://skillicons.dev/icons?i=aws" width="16" /> **Badge Pipeline Flow** | Green arrow badges showing workflow stages |
-
-> **Setup:** After pushing both workflow files, go to **Actions tab** → **Run workflow** manually once for each. After that they auto-run every 6 hours.
