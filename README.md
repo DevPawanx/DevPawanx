@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub-DevPawanX-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/SakshuOfficialOS">
-  <img src="https://img.shields.io/badge/Org-SakshuOfficialOS-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Support-SakshuOfficialOS-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:proxypawang@gmail.com">
   <img src="https://img.shields.io/badge/Email-proxypawang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
