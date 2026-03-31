@@ -1,25 +1,23 @@
-Here's your enhanced README with all the elements from the screenshots added — animated dividers, `whoami` code block, contribution snake, trophies, improved credits section, expandable widget credits, percentage-based roadmap, and more: Follow: https://github.com/SakshuOfficialOS
-
-<!-- Professional DevOps GitHub Profile README
-Profile: DevPawanX
-Username: DevPawanX
+<!--
+  Professional DevOps GitHub Profile README
+  Profile: DevPawanX
+  Username: DevPawanX
 -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:111827,100:0ea5e9&text=DevPawanX&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation%20%7C%20Infrastructure&descAlignY=58&animation=fadeIn" alt="banner"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:111827,100:0ea5e9&text=DevPawanX&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Automation%20%E2%80%A2%20Infrastructure&descAlignY=58&animation=fadeIn" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=DevPawanX+%E2%80%94+DevOps+Engineer+%7C+Cloud+%7C+Automation;Building+scalable+infrastructure+and+automated+cloud+pipelines." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=DevPawanX+%E2%80%94+DevOps+Engineer+%7C+Cloud+%7C+Automation;Building+scalable+infrastructure+%26+automated+pipelines;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Automate+everything.+Break+nothing+in+production." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Age-26-111827?style=for-the-badge&logo=calendar&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Languages-English%20%7C%20Hinglish-111827?style=for-the-badge&logo=googletranslate&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Role-DevOps%20Engineer-111827?style=for-the-badge&logo=opsgenie&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-16a34a?style=for-the-badge&logo=statuspage&logoColor=white" />
+<!-- Animated Snake Divider -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/DevPawanX">
   <img src="https://img.shields.io/badge/GitHub-DevPawanX-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -27,282 +25,288 @@ Username: DevPawanX
 <a href="https://github.com/SakshuOfficialOS">
   <img src="https://img.shields.io/badge/Org-SakshuOfficialOS-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://discord.com/users/dev.pawanx_">
-  <img src="https://img.shields.io/badge/Discord-dev.pawanx__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
 <a href="mailto:proxypawang@gmail.com">
   <img src="https://img.shields.io/badge/Email-proxypawang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://discord.com/users/dev.pawanx_">
+  <img src="https://img.shields.io/badge/Discord-dev.pawanx__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=DevPawanX&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/Age-26-111827?style=for-the-badge&logo=calendar&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Languages-English%20%7C%20Hinglish-111827?style=for-the-badge&logo=googletranslate&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-111827?style=for-the-badge&logo=icloud&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-16a34a?style=for-the-badge&logo=statuspage&logoColor=white" />
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- WHOAMI SECTION -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- Animated Gradient Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">〈 whoami /〉</h2>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> About Me
 
 <div align="center">
 
-```yaml
-Name        : DevPawanX
-Username    : SakshuOfficialOS
-Role        : DevOps Engineer
-Age         : 26
-Languages   : English, Hinglish
-Focus       : Cloud Infrastructure · CI/CD Pipelines · Automation · IaC
-Email       : proxypawang@gmail.com
-Discord     : dev.pawanx_
+<!-- Animated Terminal Card -->
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   $ whoami                                                       ║
+║   > DevPawanX — DevOps Engineer                                  ║
+║                                                                  ║
+║   $ cat /etc/profile                                             ║
+║   Name       : DevPawanX                                         ║
+║   Username   : DevPawanX                                         ║
+║   Role       : DevOps Engineer                                   ║
+║   Age        : 26                                                ║
+║   Languages  : English, Hinglish                                 ║
+║   Focus      : Cloud Infrastructure · CI/CD · Automation · IaC   ║
+║   Email      : proxypawang@gmail.com                             ║
+║   Discord    : dev.pawanx_                                       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<div align="center">
-
-**DevPawanX** is a passionate DevOps Engineer with intermediate proficiency in **Python**, **Node.js**, and **HTML**, combined with advanced, hands-on experience in **DevOps tooling**, **cloud infrastructure**, and **automation workflows**.
-
-Specialising in designing, deploying, and maintaining scalable infrastructure using modern DevOps practices — from containerisation and orchestration to full **CI/CD pipeline automation** and **Infrastructure as Code**.
-
 <br/>
 
-*"Automate everything. Document everything. Break nothing in production."*
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="developer" width="300" />
 
 </div>
 
 <br/>
 
 <div align="center">
+
+Professional DevOps Engineer focused on building scalable infrastructure, automating delivery pipelines, and improving system reliability across cloud-native environments.  
+I have **intermediate knowledge of Python, Node.js, and HTML**, along with **advanced practical experience in DevOps tooling, CI/CD workflows, container orchestration, infrastructure automation, monitoring, and cloud operations**.
+
+<br/>
+
+> *"Automate everything. Document everything. Break nothing in production."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-0f172a?style=for-the-badge&logo=opsgenie&logoColor=22d3ee" />
 <img src="https://img.shields.io/badge/Specialization-Infrastructure%20Automation-0f172a?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
 <img src="https://img.shields.io/badge/Expertise-CI%2FCD%20%7C%20Cloud%20%7C%20Containers-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=docker" width="22" /> Tech Stack</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> Tech Stack
 
 <div align="center">
 
-**DevOps & Infrastructure**
+### ⚙️ DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,kubernetes,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,kubernetes,git,github,githubactions&perline=6" />
 </p>
 
-**Programming**
+### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,html,css&perline=4" />
 </p>
 
-**Tools & Platforms**
+### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,discord,postman,java" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,discord,postman,java&perline=5" />
 </p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- ADVANCED DEVOPS TOOLS -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="22" /> Advanced DevOps Tools Used in Real Workflows</h2>
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30" /> Advanced DevOps Tools Used in Real Workflows
 
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,prometheus,grafana&perline=5" />
 </p>
+
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=000000" />
 </p>
 
 </div>
 
 <div align="center">
 
-| Area | Tools |
-|------|-------|
+| 🏷️ Area | 🔧 Tools |
+|:------:|:-------:|
 | CI/CD Automation | Jenkins, GitHub Actions, ArgoCD |
 | Containers & Orchestration | Docker, Kubernetes, Helm |
 | Infrastructure as Code | Terraform, Ansible |
 | Cloud Platforms | AWS, Azure, Google Cloud |
 | Monitoring & Logs | Prometheus, Grafana, ELK Stack |
 | AI in DevOps | TensorFlow |
+| Security & Secrets | HashiCorp Vault |
+| Reverse Proxy | Nginx |
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> DevOps Skill Proficiency
+
+<div align="center">
+
+```
+CI/CD Automation        ████████████████████████████████████████████████  95%
+Container Orchestration ██████████████████████████████████████████████    92%
+Infrastructure as Code  ████████████████████████████████████████████      88%
+Cloud Platforms (AWS)   ██████████████████████████████████████████        85%
+Monitoring & Logging    ████████████████████████████████████████          82%
+Python Scripting        ██████████████████████████████████                68%
+Node.js Development     ████████████████████████████                      58%
+AI/ML in DevOps         ██████████████████████████                        52%
+```
+
+</div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- DEVOPS CERTIFICATION ROADMAP (with percentages) -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=terraform" width="22" /> 〈 DevOps Certification Roadmap /〉</h2>
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30" /> DevOps Certification Roadmap
 
 <div align="center">
+
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔥_01-DEVOPS%20FUNDAMENTALS-111827?style=for-the-badge&logo=linux&logoColor=FCC624" /><br/>
-      <sub>Linux · Git · Bash · Networking</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Completed-100%25-16a34a?style=flat-square" />
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" /><br/>
+      <img src="https://img.shields.io/badge/01-DevOps%20Fundamentals-111827?style=for-the-badge&logo=linux&logoColor=FCC624" /><br/>
+      <sub>Linux · Git · Bash · Networking</sub><br/>
+      <img src="https://img.shields.io/badge/✅-Completed-16a34a?style=flat-square" />
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🐳_02-CONTAINERIZATION-111827?style=for-the-badge&logo=docker&logoColor=2496ED" /><br/>
-      <sub>Docker · Compose · Container Security</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Progress-95%25-0ea5e9?style=flat-square" />
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" /><br/>
+      <img src="https://img.shields.io/badge/02-Containerization-111827?style=for-the-badge&logo=docker&logoColor=2496ED" /><br/>
+      <sub>Docker · Compose · Security</sub><br/>
+      <img src="https://img.shields.io/badge/✅-Completed-16a34a?style=flat-square" />
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔧_03-INFRASTRUCTURE%20AS%20CODE-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC" /><br/>
-      <sub>Terraform · Ansible · Helm</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Progress-80%25-8b5cf6?style=flat-square" />
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" /><br/>
+      <img src="https://img.shields.io/badge/03-Infrastructure%20as%20Code-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC" /><br/>
+      <sub>Terraform · Ansible · Helm</sub><br/>
+      <img src="https://img.shields.io/badge/✅-Completed-16a34a?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/☁️_04-CLOUD%20PLATFORMS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /><br/>
-      <sub>AWS · Azure · GCP</sub><br/><br/>
-      <img src="https://img.shields.io/badge/In%20Progress-65%25-2563eb?style=flat-square" />
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" /><br/>
+      <img src="https://img.shields.io/badge/04-Cloud%20Platforms-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /><br/>
+      <sub>AWS · Azure · GCP</sub><br/>
+      <img src="https://img.shields.io/badge/🔄-In%20Progress-0ea5e9?style=flat-square" />
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔔_05-MONITORING%20%26%20OBSERVABILITY-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C" /><br/>
-      <sub>Prometheus · Grafana · ELK</sub><br/><br/>
-      <img src="https://img.shields.io/badge/In%20Progress-70%25-f97316?style=flat-square" />
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" /><br/>
+      <img src="https://img.shields.io/badge/05-Monitoring%20%26%20Observability-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C" /><br/>
+      <sub>Prometheus · Grafana · ELK</sub><br/>
+      <img src="https://img.shields.io/badge/🔄-In%20Progress-0ea5e9?style=flat-square" />
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🏆_06-DEVOPS%20WITH%20AI-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /><br/>
-      <sub>TensorFlow · AI CI/CD · MLOps</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Planned-40%25-ec4899?style=flat-square" />
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" /><br/>
+      <img src="https://img.shields.io/badge/06-DevOps%20with%20AI-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /><br/>
+      <sub>TensorFlow · AI-assisted CI/CD · MLOps</sub><br/>
+      <img src="https://img.shields.io/badge/📋-Planned-f97316?style=flat-square" />
     </td>
   </tr>
 </table>
+
 </div>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS & ACTIVITY -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=github" width="22" /> GitHub Stats & Activity</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevPawanX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPawanX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=DevPawanX&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Progress-DevOps%20Fundamentals%20✅-16a34a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-Containerization%20✅-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-IaC%20✅-8b5cf6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-Cloud%20🔄-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-Monitoring%20🔄-f97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-DevOps%20AI%20📋-ec4899?style=for-the-badge" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30" /> GitHub Stats & Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevPawanX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&ring_color=22D3EE" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPawanX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevPawanX&bg_color=0d1117&color=22d3ee&line=3b82f6&point=22d3ee&area=true&hide_border=true" />
+<img height="180" src="https://streak-stats.demolab.com?user=DevPawanX&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=FF6B6B&currStreakLabel=22D3EE&sideLabels=22D3EE" />
+
+<br/>
+
+<!-- Animated Contribution Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevPawanX&bg_color=0d1117&color=22d3ee&line=3b82f6&point=22d3ee&area=true&hide_border=true&custom_title=DevPawanX%27s%20Contribution%20Graph" />
+
+<br/>
+
+<!-- Trophy Section -->
+<img src="https://github-profile-trophy.vercel.app/?username=DevPawanX&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="90%" />
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /> DevOps Focus Areas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevPawanX&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION ACTIVITY (Snake Animation) -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">〈 Contribution Activity /〉</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPawanX/DevPawanX/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPawanX/DevPawanX/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DevPawanX/DevPawanX/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-> **Note:** To make the snake animation work, create a GitHub Actions workflow in your profile repo. See the [Snake Workflow Setup](#-snake-workflow-setup) section at the bottom.
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- DEVOPS FOCUS AREAS -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="22" /> DevOps Focus Areas</h2>
-
-<div align="center">
 <img src="https://img.shields.io/badge/CI%2FCD%20Pipeline%20Automation-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes%20Operations-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud%20Provisioning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Observability%20%26%20Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Automation%20Workflows-16a34a?style=for-the-badge&logo=ansible&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/GitOps%20%26%20ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Security%20%26%20Compliance-FFEC6E?style=for-the-badge&logo=vault&logoColor=000000" />
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=github" width="22" /> Featured Projects</h2>
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" /> Featured Projects
 
 <div align="center">
+
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">CI/CD Pipeline Automation</h3>
+      <h3 align="center">🚀 CI/CD Pipeline Automation</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
+      </div>
       <p align="center">
         Automated build, test, and deployment workflows for faster and more reliable software delivery.
       </p>
@@ -313,7 +317,10 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Kubernetes Deployment System</h3>
+      <h3 align="center">☸️ Kubernetes Deployment System</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
+      </div>
       <p align="center">
         Production-ready container deployment workflow with orchestration, scaling, and rollout management.
       </p>
@@ -326,7 +333,10 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Infrastructure as Code Templates</h3>
+      <h3 align="center">🏗️ Infrastructure as Code Templates</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
+      </div>
       <p align="center">
         Reusable and modular infrastructure templates for provisioning secure, scalable environments.
       </p>
@@ -337,7 +347,10 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Monitoring Stack Setup</h3>
+      <h3 align="center">📊 Monitoring Stack Setup</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
+      </div>
       <p align="center">
         End-to-end observability stack for metrics, dashboards, alerting, and centralized log analysis.
       </p>
@@ -349,20 +362,76 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
     </td>
   </tr>
 </table>
-</div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- CONTACT -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=discord" width="22" /> Contact</h2>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" /> Current DevOps Workflow
 
 <div align="center">
+
+```mermaid
+graph LR
+    A[📝 Code] -->|Push| B[🔄 GitHub]
+    B -->|Trigger| C[⚙️ Jenkins/GA]
+    C -->|Build| D[🐳 Docker]
+    D -->|Deploy| E[☸️ Kubernetes]
+    E -->|Provision| F[🏗️ Terraform]
+    F -->|Configure| G[🔧 Ansible]
+    G -->|Monitor| H[📊 Grafana]
+    H -->|Alert| A
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/→-FFFFFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Build-Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/→-FFFFFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Container-Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/→-FFFFFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deploy-Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Provision-Terraform-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
+<img src="https://img.shields.io/badge/→-FFFFFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Configure-Ansible-111827?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/→-FFFFFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Observe-Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30" /> Weekly DevOps Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Terraform        ████████████████░░░░░░░  35.2%
+YAML/Helm        ███████████████░░░░░░░░  30.8%
+Docker           ████████████░░░░░░░░░░░  15.4%
+Bash             ██████░░░░░░░░░░░░░░░░░   8.6%
+Python           █████░░░░░░░░░░░░░░░░░░   6.2%
+Markdown         ██░░░░░░░░░░░░░░░░░░░░░   3.8%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" /> Connect With Me
+
+<div align="center">
+
 <a href="https://github.com/DevPawanX">
   <img src="https://img.shields.io/badge/GitHub-DevPawanX-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -372,202 +441,70 @@ Specialising in designing, deploying, and maintaining scalable infrastructure us
 <a href="mailto:proxypawang@gmail.com">
   <img src="https://img.shields.io/badge/Email-proxypawang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people!</b> If you want to collaborate on DevOps, cloud, or infrastructure projects — <b>feel free to reach out!</b></em>
+
+</div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- CURRENT DEVOPS WORKFLOW -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=git" width="22" /> Current DevOps Workflow</h2>
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30" /> Extra Widgets
 
 <div align="center">
-<img src="https://img.shields.io/badge/Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Build-Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Container-Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Deploy-Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-<img src="https://img.shields.io/badge/Provision-Terraform-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
-<img src="https://img.shields.io/badge/Configure-Ansible-111827?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Observe-Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800" />
-</div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- EXTRA WIDGETS -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="22" /> Extra Widgets</h2>
-
-<div align="center">
 <img src="https://img.shields.io/badge/Open%20to-DevOps%20Collaboration-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud%20Native-Building%20Reliable%20Systems-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
 <img src="https://img.shields.io/badge/Automation-Always%20Improving-111827?style=for-the-badge&logo=ansible&logoColor=EE0000" />
 <img src="https://img.shields.io/badge/Infra-Scalable%20%26%20Secure-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
-</div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/><br/>
 
----
+<!-- Spotify / Quote Widget -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Infrastructure%20as%20Code%20is%20not%20just%20a%20practice%2C%20it%27s%20a%20mindset.&author=DevPawanX" width="70%" />
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- CREDITS -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">〈 Credits /〉</h2>
-
-<div align="center">
-
-**Designed and maintained by [DevPawanX](https://github.com/DevPawanX)**
-
-All configurations, infrastructure designs, and automation workflows created and documented by **DevPawanX**.
-
-Support credit — [Sakshu1347](https://github.com/Sakshu1347)
-
-<br/>
-
-<img src="https://img.shields.io/badge/README%20by-DevPawanX-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Support-Sakshu1347-22d3ee?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Badges-shields.io-0ea5e9?style=flat-square&logo=shieldsdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Icons-skillicons.dev-8b5cf6?style=flat-square&logo=icons8&logoColor=white" />
-<img src="https://img.shields.io/badge/Banner-capsule--render-6366f1?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Typing-readme--typing--svg-22d3ee?style=flat-square&logo=svg&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Snake-platane%2Fsnk-16a34a?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Stats-anuraghazra-0ea5e9?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Streak-DenverCoder1-f97316?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Graph-Ashutosh00710-ec4899?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Trophies-ryo--ma-eab308?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Dividers-andreasbm-6366f1?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Views-komarev-0ea5e9?style=flat-square&logo=github&logoColor=white" />
-
-</div>
-
-<br/>
-
-<!-- Expandable Icon & Widget Credits -->
-<details>
-<summary align="center">► 📦 Icon & Widget Credits (click to expand)</summary>
-<br/>
-<div align="center">
-
-| Widget | Credit |
-|--------|--------|
-| Banner | [capsule-render](https://github.com/kyechan99/capsule-render) |
-| Typing Animation | [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) |
-| Badges | [shields.io](https://shields.io/) |
-| Skill Icons | [skillicons.dev](https://skillicons.dev/) |
-| GitHub Stats | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) |
-| Streak Stats | [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) |
-| Activity Graph | [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) |
-| Trophies | [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) |
-| Snake Animation | [snk](https://github.com/Platane/snk) |
-| Animated Dividers | [readme](https://github.com/andreasbm/readme) |
-| Profile Views | [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) |
-
-</div>
-</details>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7B42BC,50:3B82F6,100:0EA5E9" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=2000&color=22D3EE&center=true&vCenter=true&width=500&lines=README+crafted+by+Sakshu1347+%C2%B7+Template+%26+design+credits%3A+SakshuOfficialOS" alt="footer credit" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Built%20with-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/capsule--render-vercel-6366f1?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/shields.io-badges-0ea5e9?style=flat-square&logo=shieldsdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/skillicons.dev-icons-8b5cf6?style=flat-square&logo=icons8&logoColor=white" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:111827,100:0ea5e9&text=DevPawanX%20%C2%B7%20DevOps%20Engineer&fontColor=ffffff&fontSize=16&fontAlignY=75" />
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- SNAKE WORKFLOW SETUP (Instructions) -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" /> Random Dev Joke
 
-<!-- 
-## 🐍 Snake Workflow Setup
+<div align="center">
 
-To enable the contribution snake animation, create the following file in your profile repository:
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0d1117&borderColor=22d3ee&qColor=22d3ee&aColor=3b82f6" width="60%" />
 
-📁 `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: DevPawanX
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After creating this workflow, run it once manually from the "Actions" tab, and the snake SVGs will be generated in the `output` branch.
--->
-```
+</div>
 
 ---
 
-### What was added (matching your screenshots):
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-1. **`〈 whoami /〉` section** — YAML-style code block with Name, Username, Role, Age, Languages, Focus, Email, Discord
-2. **Animated colored dividers** — `andreasbm/readme` colored line dividers between every section
-3. **Contribution Snake animation** — Using `Platane/snk` with dark mode support (+ setup instructions)
-4. **GitHub Trophies** — Using `ryo-ma/github-profile-trophy` with `tokyonight` theme
-5. **DevOps Certification Roadmap with percentages** — 100%, 95%, 80%, 65%, 70%, 40% progress badges
-6. **Improved Credits section** — Detailed credit badges for every tool/widget with proper attribution
-7. **Expandable `📦 Icon & Widget Credits`** — Collapsible `<details>` section with a table of all credits
-8. **Gradient footer line** — Purple-to-cyan animated gradient divider
-9. **Animated footer text** — Typing SVG credit line at the bottom
-10. **Footer banner** — `capsule-render` waving footer with "DevPawanX · DevOps Engineer"
-11. **"Open to Collab" status badge** — Green status badge in the header
-12. **Section headers with `〈 /〉` syntax** — Matching the screenshot styling
+## Credits
+
+<div align="center">
+
+**Designed and maintained by DevPawanX**  
+**All configurations, infrastructure designs, and automation workflows created and documented by DevPawanX.**
+
+**Support credit:** [Sakshu1347](https://github.com/Sakshu1347)  
+**Template/design inspiration credit:** [SakshuOfficialOS](https://github.com/SakshuOfficialOS)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Built%20with-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/Banner-capsule--render-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Typing-readme--typing--svg-111827?style=for-the-badge&logo=svg&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Badges-shields.io-111827?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Icons-skillicons.dev-111827?style=for-the-badge&logo=icons8&logoColor=white" />
+<img src="https://img.shields.io/badge/Stats-github--readme--stats-111827?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0d1117,50:111827,100:0ea5e9&text=Thanks%20for%20visiting!%20⚡&fontColor=22D3EE&fontSize=20&fontAlignY=72&animation=twinkling" width="100%" />
+
+</div>
