@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:111827,100:0ea5e9&text=DevPawanX&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Automation%20%E2%80%A2%20Infrastructure&descAlignY=58&animation=fadeIn" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=DevPawanX+%E2%80%94+DevOps+Engineer+%7C+Cloud+%7C+Automation;Building+scalable+infrastructure+%26+automated+pipelines;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Automate+everything.+Break+nothing+in+production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Strong+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=DevPawanX+%E2%80%94+DevOps+Engineer+%7C+Cloud+%7C+Automation;Building+scalable+infrastructure+%26+automated+pipelines;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Automate+everything.+Break+nothing+in+production." alt="Typing SVG" />
 </a>
 
 <br/>
