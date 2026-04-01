@@ -150,21 +150,17 @@ Intermediate proficiency in **Python, Node.js, and HTML** — combined with **ad
 
 <div align="center">
 
-<br/>
-
-| <img src="https://skillicons.dev/icons?i=linux" width="16" /> &nbsp; Skill | Proficiency | Level |
-|:------|:------|:------|
-| <img src="https://skillicons.dev/icons?i=githubactions" width="16" /> &nbsp; CI/CD Automation | ![](https://progress-bar.dev/95/?width=350&color=0ea5e9) | `95%` |
-| <img src="https://skillicons.dev/icons?i=kubernetes" width="16" /> &nbsp; Container Orchestration | ![](https://progress-bar.dev/92/?width=350&color=326CE5) | `92%` |
-| <img src="https://skillicons.dev/icons?i=terraform" width="16" /> &nbsp; Infrastructure as Code | ![](https://progress-bar.dev/88/?width=350&color=7B42BC) | `88%` |
-| <img src="https://skillicons.dev/icons?i=aws" width="16" /> &nbsp; Cloud Platforms (AWS) | ![](https://progress-bar.dev/85/?width=350&color=FF9900) | `85%` |
-| <img src="https://skillicons.dev/icons?i=prometheus" width="16" /> &nbsp; Monitoring & Logging | ![](https://progress-bar.dev/82/?width=350&color=E6522C) | `82%` |
-| <img src="https://skillicons.dev/icons?i=linux" width="16" /> &nbsp; Linux Administration | ![](https://progress-bar.dev/90/?width=350&color=FCC624) | `90%` |
-| <img src="https://skillicons.dev/icons?i=python" width="16" /> &nbsp; Python Scripting | ![](https://progress-bar.dev/68/?width=350&color=3776AB) | `68%` |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="16" /> &nbsp; Node.js Development | ![](https://progress-bar.dev/58/?width=350&color=339933) | `58%` |
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="16" /> &nbsp; AI/ML in DevOps | ![](https://progress-bar.dev/52/?width=350&color=FF6F00) | `52%` |
-
-<br/>
+| <img width="14" /> Skill | Proficiency | Level |
+|:---|:---|:---:|
+| <img src="https://skillicons.dev/icons?i=githubactions" width="16" /> &nbsp; CI/CD Automation | ![](https://geps.dev/progress/95?dangerColor=0ea5e9&warningColor=0ea5e9&successColor=0ea5e9) | **95%** |
+| <img src="https://skillicons.dev/icons?i=kubernetes" width="16" /> &nbsp; Container Orchestration | ![](https://geps.dev/progress/92?dangerColor=3b82f6&warningColor=3b82f6&successColor=3b82f6) | **92%** |
+| <img src="https://skillicons.dev/icons?i=terraform" width="16" /> &nbsp; Infrastructure as Code | ![](https://geps.dev/progress/88?dangerColor=7B42BC&warningColor=7B42BC&successColor=7B42BC) | **88%** |
+| <img src="https://skillicons.dev/icons?i=aws" width="16" /> &nbsp; Cloud Platforms (AWS) | ![](https://geps.dev/progress/85?dangerColor=FF9900&warningColor=FF9900&successColor=FF9900) | **85%** |
+| <img src="https://skillicons.dev/icons?i=prometheus" width="16" /> &nbsp; Monitoring & Logging | ![](https://geps.dev/progress/82?dangerColor=E6522C&warningColor=E6522C&successColor=E6522C) | **82%** |
+| <img src="https://skillicons.dev/icons?i=docker" width="16" /> &nbsp; Containerization | ![](https://geps.dev/progress/90?dangerColor=2496ED&warningColor=2496ED&successColor=2496ED) | **90%** |
+| <img src="https://skillicons.dev/icons?i=python" width="16" /> &nbsp; Python Scripting | ![](https://geps.dev/progress/68?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB) | **68%** |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="16" /> &nbsp; Node.js Development | ![](https://geps.dev/progress/58?dangerColor=339933&warningColor=339933&successColor=339933) | **58%** |
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="16" /> &nbsp; AI/ML in DevOps | ![](https://geps.dev/progress/52?dangerColor=FF6F00&warningColor=FF6F00&successColor=FF6F00) | **52%** |
 
 </div>
 
@@ -434,22 +430,6 @@ journey
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://skillicons.dev/icons?i=python" width="24" /> &nbsp; Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPawanX/DevPawanX/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPawanX/DevPawanX/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/DevPawanX/DevPawanX/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://skillicons.dev/icons?i=githubactions" width="24" /> &nbsp; DevOps Focus Areas
 
 <div align="center">
@@ -471,7 +451,19 @@ journey
 
 </div>
 
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## <img src="https://skillicons.dev/icons?i=git" width="24" /> &nbsp; Featured Projects
 
@@ -627,6 +619,20 @@ journey
 <img src="https://img.shields.io/badge/Infra-Scalable%20%26%20Secure-111827?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
 
 </div>
+
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
