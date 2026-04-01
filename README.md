@@ -87,6 +87,23 @@ Intermediate proficiency in **Python, Node.js, and HTML** — combined with **ad
 
 <br/>
 
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevPawanX&theme=tokyonight" width="94%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevPawanX&theme=tokyonight" width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevPawanX&theme=tokyonight" width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevPawanX&theme=tokyonight&utcOffset=5.5" width="31%" />
+
+</div>
+
 ## <img src="https://skillicons.dev/icons?i=docker" width="24" /> &nbsp; Tech Stack
 
 <div align="center">
